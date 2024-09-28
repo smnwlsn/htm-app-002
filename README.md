@@ -1,5 +1,9 @@
 # Shopify App Template - Remix
 
+
+Some notes - need to use Shopify API to display info - next step is how to do this!
+
+
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
 
 Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](https://shopify.dev/docs/apps/getting-started/create).
