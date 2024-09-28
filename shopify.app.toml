@@ -3,7 +3,7 @@
 client_id = "ad37b57762d6313297c1209a522d8df9"
 name = "htm-app-one"
 handle = "htm-app-one"
-application_url = "https://chamber-harbor-friends-futures.trycloudflare.com"
+application_url = "https://testimony-close-arrest-chest.trycloudflare.com"
 embedded = true
 
 [build]
@@ -13,13 +13,13 @@ include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_products"
+scopes = "read_analytics,read_orders,read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://chamber-harbor-friends-futures.trycloudflare.com/auth/callback",
-  "https://chamber-harbor-friends-futures.trycloudflare.com/auth/shopify/callback",
-  "https://chamber-harbor-friends-futures.trycloudflare.com/api/auth/callback"
+  "https://testimony-close-arrest-chest.trycloudflare.com/auth/callback",
+  "https://testimony-close-arrest-chest.trycloudflare.com/auth/shopify/callback",
+  "https://testimony-close-arrest-chest.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
